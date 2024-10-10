@@ -1,2 +1,2 @@
-# Alma media
-##[id^="sp_message_"]
+# Alma media sites
+||cdn.privacy-mgmt.com^
