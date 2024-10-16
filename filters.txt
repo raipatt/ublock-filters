@@ -1,2 +1,3 @@
 # Alma media sites
 ||cdn.privacy-mgmt.com^
+*##+js(remove-class, sp-message-open, html)
