@@ -1,3 +1,7 @@
 # Alma media sites
 ||cdn.privacy-mgmt.com^
 *##+js(remove-class, sp-message-open, html)
+||handshake.gravito.net/api/ap$redirect=noopjson
+
+# Reddit
+www.reddit.com###desktop-dynamic-upsell-dialog
